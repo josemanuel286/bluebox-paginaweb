@@ -215,6 +215,24 @@ color: #00aeff;
 	border-bottom: 0px solid #000000;
 	background: #31333e;
 }
+.tres{
+	color: #ffffff;
+	padding: 0px 15px;
+	border: 0px solid #e70811;
+}
+.cuatro{
+	color: #ffffff;
+	padding: 0px 15px;
+	font-size: 11px;
+}
+#menu-final{
+	padding: 54px 20px;
+	padding-left: 85px;
+	width: 700px;
+	height: 200px;
+	border: 0px solid #e70811;
+	float: left;
+}
 #menu-final nav ul li a{
 	color: #ffffff;
 	float: left;
