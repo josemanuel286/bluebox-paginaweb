@@ -231,15 +231,17 @@ color: #00aeff;
 	color: #ffffff;
 	padding: 0px 15px;
 	border: 0px solid #e70811;
+	padding-left: 110px;
 }
 .cuatro{
 	color: #ffffff;
 	padding: 0px 15px;
 	font-size: 11px;
+	padding-left: 110px;
 }
 #menu-final{
 	padding: 12px 20px;
-	padding-left: 85px;
+	padding-left: 30px;
 	width: 700px;
 	height: 200px;
 	border: 0px solid #e70811;
@@ -249,6 +251,7 @@ color: #00aeff;
 	color: #ffffff;
 	float: left;
 	padding: 0px 15px;
+	padding-left: 10px;
 }
 #icons{
 	padding: 20px 0px;
