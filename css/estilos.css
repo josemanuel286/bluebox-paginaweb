@@ -20,9 +20,6 @@ nav ul li:last-child a{
 nav ul li a:hover, .menu-activo{
 color: #00aeff;
 }
-#buscador-header form button{
-	border: none;
-}
 #header-lower{
 	padding-top: 15px;
 	padding-bottom: 15px;
@@ -249,9 +246,6 @@ color: #00aeff;
 	border: 0px solid #e70811;
 	float: left;
 	padding-right: 50px;
-}
-#icons form button{
-	border: none;
 }
 .cinco{
 	padding-left: 108px
