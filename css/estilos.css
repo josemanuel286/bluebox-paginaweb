@@ -25,7 +25,8 @@ color: #00aeff;
 }	
 #buscador-header form button{
 	border: none;
-	color: #ffffff;
+	background: #ffffff;
+	color: #c1c1c1;
 }
 #header-lower{
 	padding-top: 15px;
@@ -45,7 +46,8 @@ color: #00aeff;
 	font-size: 38px;
 	padding-left: 20px;
 	padding-bottom: 20px;
-	font-family: 'Myriad pro', sans-serif; 
+	font-family: 'Myriad pro', sans-serif;
+	color: #626262; 
 }
 #menu-one{
 	padding-top: 65px;
@@ -197,7 +199,7 @@ color: #00aeff;
 	width: 100%;
 	height: auto; overflow: hidden;
 	border: 0px solid;
-	margin-top: 10px;
+	margin-top: -25px;
 }
 .uno{
 	padding: 54px 40px;
