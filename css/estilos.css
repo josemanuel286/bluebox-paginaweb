@@ -6,7 +6,7 @@ nav{
 	margin-top:10px;
 }
 nav ul{
-	list-style: none;padding-left: 0;
+	list-style: none;padding-left: 100px;
 }
 nav ul li{
 	display: inline-block;
@@ -20,8 +20,12 @@ nav ul li:last-child a{
 nav ul li a:hover, .menu-activo{
 color: #00aeff;
 }
+#buscador-header form input{
+	border: none;
+}	
 #buscador-header form button{
 	border: none;
+	color: #ffffff;
 }
 #header-lower{
 	padding-top: 15px;
@@ -39,7 +43,7 @@ color: #00aeff;
 	padding: 20px 65px;
 	border: 0px solid #ccc;
 	font-size: 38px;
-	padding-left: 120px;
+	padding-left: 20px;
 	padding-bottom: 20px;
 	font-family: 'Myriad pro', sans-serif; 
 }
@@ -50,7 +54,7 @@ color: #00aeff;
 	height: 630px;
 	border-bottom: 0px solid #000000;
 	background: #9fa6ed;
-		padding: 17px;
+		padding: 40px;
 }
 #menu-one nav ul span{
 	padding: 0px 20px;
@@ -93,7 +97,7 @@ color: #00aeff;
 	height: 630px;
 	border-bottom: 0px solid #000000;
 	background: #58d99c;
-		padding: 17px;
+		padding: 40px;
 }
 #menu-two nav ul span{
 	padding: 0px 20px;
@@ -136,7 +140,7 @@ color: #00aeff;
 	height: 630px;
 	border-bottom: 0px solid #000000;
 	background: #f4776d;
-	padding: 17px;
+	padding: 40px;
 }
 #menu-three nav ul span{
 	padding: 0px 20px;
@@ -179,7 +183,7 @@ color: #00aeff;
 	height: 630px;
 	border-bottom: 0px solid #000000;
 	background: #edca52;
-	padding: 17px;
+	padding: 40px;
 	font-family: 'Myriad pro', sans-serif;
 }
 #menu-four nav ul span{
