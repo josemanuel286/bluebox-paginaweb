@@ -41,6 +41,7 @@ color: #00aeff;
 	font-size: 38px;
 	padding-left: 120px;
 	padding-bottom: 20px;
+	font-family: 'Myriad pro', sans-serif; 
 }
 #menu-one{
 	padding-top: 65px;
@@ -57,6 +58,7 @@ color: #00aeff;
 	color: #ffffff;
 	border: 0px solid #ccc;
 	padding-left: 120px;
+	font-family: 'Myriad pro', sans-serif;
 }
 #categoria{
 	width: 100%;
@@ -99,6 +101,7 @@ color: #00aeff;
 	color: #ffffff;
 	border: 0px solid #ccc;
 	padding-left: 120px;
+	font-family: 'Myriad pro', sans-serif;
 }
 #categoria{
 	width: 100%;
@@ -141,6 +144,7 @@ color: #00aeff;
 	color: #ffffff;
 	border: 0px solid #ccc;
 	padding-left: 120px;
+	font-family: 'Myriad pro', sans-serif;
 }
 #categoria{
 	width: 100%;
@@ -176,6 +180,7 @@ color: #00aeff;
 	border-bottom: 0px solid #000000;
 	background: #edca52;
 	padding: 17px;
+	font-family: 'Myriad pro', sans-serif;
 }
 #menu-four nav ul span{
 	padding: 0px 20px;
