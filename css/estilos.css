@@ -21,7 +21,7 @@ nav ul li a:hover, .menu-activo{
 color: #00aeff;
 }
 #buscador-header form button{
-border: none;
+	border: none;
 }
 #header-lower{
 	padding-top: 15px;
@@ -254,7 +254,7 @@ border: none;
 	border: none;
 }
 .cinco{
-	padding-left: 108px
+	padding-left: 43px;
 }
 .facebook{
 	color: #ffffff;
