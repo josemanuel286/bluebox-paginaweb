@@ -125,6 +125,6 @@
     border-radius: 3px;
 }
 .rombo .iconocentro{
-    transform: rotate(315deg);
+    transform: translateY(-50%) rotate(315deg);
     border-radius: 3px;
-}
+  }
